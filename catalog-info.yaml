@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: fps service
-  description: Faster Payments service
+  name: fps-service
+  description: Faster Payment service
   tags:
     - go
     - website
