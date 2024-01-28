@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: fps-service
+  annotations:
+    backstage.io/kubernetes-id: here
   description: Faster Payment service
   tags:
     - go
